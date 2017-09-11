@@ -1,6 +1,5 @@
 //
 //  UINavigationController+HideBackTitle.h
-//  Resena
 //
 //  Created by Pratik on 10/08/17.
 //
